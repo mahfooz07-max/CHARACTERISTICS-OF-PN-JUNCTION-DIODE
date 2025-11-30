@@ -37,7 +37,9 @@ Note the corresponding current reading in Ammeter.
 3. Repeat step-2 by increasing the voltage in steps of 1V, till 20V.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
 Tabulation :
-<img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
+<img width="184" height="451" alt="image" src="https://github.com/user-attachments/assets/0db31a39-4c5f-43f0-8859-4113a11721a9" />
+
+<img width="197" height="443" alt="image" src="https://github.com/user-attachments/assets/cdfe86b5-a1ee-4556-bcc0-7fdd7411bfe3" />
 
 Model Graph:
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
